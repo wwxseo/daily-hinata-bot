@@ -86,7 +86,10 @@ Telegram Bot API
 Wallhaven API (Image Source)
 Hitokoto API (Quote Source)
 ## 🤝 致谢
-Wallhaven（https://wallhaven.cc/） - 最好的二次元壁纸站
-Hitokoto 一言 - 感动人心的文字
+感谢以下服务提供的免费 API：
+
+- [Wallhaven](https://wallhaven.cc) - 最好的二次元壁纸站
+- [Hitokoto 一言](https://hitokoto.cn) - 感动人心的文字
+- 
 ## 📄 License
 本项目采用 MIT License 开源协议。
