@@ -2,61 +2,59 @@ import cloudscraper
 import os
 import random
 import time
+import requests # 用于发送 Telegram 消息
 
 # 1. 获取 GitHub Secrets
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 CHAT_ID = os.environ.get("CHAT_ID")
 
 def get_daily_quote():
-    # 依然保留语录功能，使用 cloudscraper 请求
+    # 获取语录
     api_url = "https://v1.hitokoto.cn/?c=a&c=b&c=k"
-    scraper = cloudscraper.create_scraper() # 创建一个能绕过防护的浏览器实例
+    scraper = cloudscraper.create_scraper()
     try:
-        res = scraper.get(api_url, timeout=10)
+        res = scraper.get(api_url, timeout=5)
         if res.status_code == 200:
             data = res.json()
             return f"“{data.get('hitokoto')}”\n——《{data.get('from')}》"
-    except Exception as e:
-        print(f"[警告] 获取语录失败: {e}")
-    return "“只要球还没落地，就没有输！”\n——《排球少年！！》"
+    except Exception:
+        pass
+    return "“排球是永远向上看的运动！”\n——《排球少年！！》"
 
-def get_hinata_image():
-    # === 更换图源为 Gelbooru ===
-    # Gelbooru 对 cloudscraper 非常友好
-    # tags=hinata_shouyou 搜索日向翔阳
-    # sort:random 随机排序
-    # json=1 返回 JSON 格式
-    url = "https://gelbooru.com/index.php?page=dapi&s=post&q=index&json=1&tags=hinata_shouyou+sort:random&limit=20"
+def get_haikyuu_image():
+    # === 目标：Safebooru ===
+    # === 标签：haikyuu!! (排球少年全系列) + rating:general (全年龄) ===
+    # json=1 是为了确保返回 JSON 格式
+    base_url = "https://safebooru.donmai.us/posts.json"
+    params = {
+        "tags": "haikyuu!! rating:general",
+        "limit": 20,
+        "json": 1
+    }
     
-    print(f"正在请求 Gelbooru 图库: {url}")
+    print(f"正在请求 Safebooru: {base_url} 参数: {params}")
     
-    # === 核心改动：使用 cloudscraper ===
-    # 这行代码会自动处理 'Just a moment...' 这种验证
-    scraper = cloudscraper.create_scraper(browser='chrome')
+    # === 关键：创建一个模拟 Chrome 浏览器的爬虫 ===
+    scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True})
     
     try:
-        response = scraper.get(url, timeout=15)
-        print(f"图库响应状态码: {response.status_code}")
+        response = scraper.get(base_url, params=params, timeout=15)
+        print(f"Safebooru 响应状态码: {response.status_code}")
         
         if response.status_code == 200:
-            # Gelbooru 的 JSON 结构可能直接是列表，也可能有 'post' 键
-            try:
-                data = response.json()
-                # 兼容处理：有时候返回的是字典 {'post': [...]}, 有时候直接是列表 [...]
-                posts = data.get('post', []) if isinstance(data, dict) else data
-                
-                if posts and len(posts) > 0:
-                    post = random.choice(posts)
-                    img_url = post.get('file_url')
-                    print(f"成功获取图片链接: {img_url}")
-                    return img_url
-                else:
-                    print("错误：搜索结果为空")
-            except Exception as parse_error:
-                print(f"解析 JSON 失败: {parse_error}")
-                print(f"返回内容: {response.text[:100]}")
+            posts = response.json()
+            if posts and len(posts) > 0:
+                post = random.choice(posts)
+                # Safebooru 的图片链接字段通常是 file_url
+                img_url = post.get('file_url') or post.get('large_file_url') or post.get('preview_file_url')
+                print(f"成功获取图片链接: {img_url}")
+                return img_url
+            else:
+                print("错误：搜索结果为空 (可能是标签写错了或者没有图)")
         else:
-            print(f"错误：依然被拒绝 (Status {response.status_code})")
+            print(f"错误：被拦截或拒绝 (Status {response.status_code})")
+            # 打印一点点内容看看是什么错误
+            print(f"错误详情: {response.text[:200]}")
             
     except Exception as e:
         print(f"请求异常: {e}")
@@ -64,11 +62,9 @@ def get_hinata_image():
 
 def send_telegram(img_url):
     quote_text = get_daily_quote()
-    # 消息发送依然用普通的 requests 即可，Telegram API 不需要绕过防护
-    import requests 
     
     send_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
-    caption_text = f"{quote_text}\n\n🏐 <b>每日日向翔阳</b>\n#Haikyuu #HinataShoyo"
+    caption_text = f"{quote_text}\n\n🏐 <b>每日排球少年</b>\n#Haikyuu"
 
     payload = {
         "chat_id": CHAT_ID,
@@ -79,6 +75,7 @@ def send_telegram(img_url):
     
     try:
         print("正在推送给 Telegram...")
+        # 发送消息不需要 cloudscraper，用普通的 requests 就行
         res = requests.post(send_url, data=payload, timeout=20)
         print(f"Telegram 推送状态: {res.status_code}")
         if res.status_code != 200:
@@ -91,8 +88,8 @@ if __name__ == "__main__":
         print("致命错误：Secrets 未配置！")
         exit(1)
     else:
-        print("=== 任务开始 (使用 Cloudscraper + Gelbooru) ===")
-        pic = get_hinata_image()
+        print("=== 任务开始 (Cloudscraper + Safebooru + Haikyuu全员) ===")
+        pic = get_haikyuu_image()
         
         if pic:
             send_telegram(pic)
