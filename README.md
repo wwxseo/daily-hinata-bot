@@ -93,3 +93,11 @@ Hitokoto API (Quote Source)
 - 
 ## 📄 License
 本项目采用 MIT License 开源协议。
+---
+
+## 📅 历史归档 (History)
+
+| 日期 | 语录 | 图片 |
+| :--- | :--- | :--- |
+<!-- HISTORY_START -->
+<!-- HISTORY_END -->
