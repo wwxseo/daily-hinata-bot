@@ -100,4 +100,6 @@ Hitokoto API (Quote Source)
 | 日期 | 语录 | 图片 |
 | :--- | :--- | :--- |
 <!-- HISTORY_START -->
+| 2025-12-20 | “不得了不得了”<br>——《小林家的龙女仆》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' width='200'> |
+
 <!-- HISTORY_END -->
