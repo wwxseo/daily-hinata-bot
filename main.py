@@ -1,66 +1,60 @@
 import requests
 import os
 import random
+import time
 
 # 1. 获取 GitHub Secrets
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 CHAT_ID = os.environ.get("CHAT_ID")
 
-# 2. 获取“一言”语录 (API)
+# 2. 伪装浏览器头 (这是防止被拦截的关键！)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+
 def get_daily_quote():
-    # 这是一个免费的公开接口
-    # 参数 c=a 表示动画，c=b 表示漫画，c=d 表示文学，c=k 表示哲学
-    # 我们这里混合请求：动画、漫画、哲学，希望能随机到热血或有深度的句子
     api_url = "https://v1.hitokoto.cn/?c=a&c=b&c=k"
-    
     try:
-        res = requests.get(api_url, timeout=5)
+        res = requests.get(api_url, headers=HEADERS, timeout=5)
         if res.status_code == 200:
             data = res.json()
-            # 获取句子内容
-            content = data.get('hitokoto')
-            # 获取出处 (比如是哪部动漫)
-            source = data.get('from')
-            
-            # 组合成一句完整的话
-            return f"“{content}”\n——《{source}》"
+            return f"“{data.get('hitokoto')}”\n——《{data.get('from')}》"
     except Exception as e:
-        print(f"获取语录失败: {e}")
-    
-    # 如果接口挂了，或者网络不好，返回这句保底
+        print(f"[警告] 获取语录失败: {e}")
     return "“因为想赢，所以才会战斗！”\n——《排球少年！！》"
 
 def get_hinata_image():
-    # 依然使用 Safebooru + Pixiv 标签
+    # 增加 random=true 参数尝试获取随机图片
     url = "https://safebooru.donmai.us/posts.json?tags=hinata_shouyou+pixiv+rating:general&limit=20"
     
+    print(f"正在请求图库: {url}")
     try:
-        response = requests.get(url, timeout=10)
+        # 加上 headers=HEADERS 伪装成浏览器
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        
+        print(f"图库响应状态码: {response.status_code}")
+        
         if response.status_code == 200:
             posts = response.json()
             if posts:
                 post = random.choice(posts)
-                return post.get('file_url') or post.get('sample_url')
+                img_url = post.get('file_url') or post.get('sample_url')
+                print(f"成功获取图片链接: {img_url}")
+                return img_url
+            else:
+                print("错误：搜索结果为空 (可能标签太严格或图库暂时没数据)")
+        else:
+            print(f"错误：图库拒绝访问 (Status {response.status_code})")
+            print(f"响应内容: {response.text[:100]}") # 打印前100个字符看看
+            
     except Exception as e:
-        print(f"获取图片出错: {e}")
+        print(f"请求异常: {e}")
     return None
 
 def send_telegram(img_url):
-    if not img_url:
-        print("未找到图片，跳过发送")
-        return
-
-    # === 获取今日语录 ===
     quote_text = get_daily_quote()
-
     send_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
-    
-    # 构造消息内容
-    caption_text = (
-        f"{quote_text}\n\n"
-        f"🏐 <b>每日日向翔阳</b>\n"
-        f"#Haikyuu #HinataShoyo"
-    )
+    caption_text = f"{quote_text}\n\n🏐 <b>每日日向翔阳</b>\n#Haikyuu #HinataShoyo"
 
     payload = {
         "chat_id": CHAT_ID,
@@ -70,16 +64,25 @@ def send_telegram(img_url):
     }
     
     try:
+        print("正在推送给 Telegram...")
         res = requests.post(send_url, data=payload, timeout=10)
-        print(f"推送状态: {res.status_code}")
+        print(f"Telegram 推送状态: {res.status_code}")
+        if res.status_code != 200:
+            print(f"推送失败原因: {res.text}")
     except Exception as e:
-        print(f"发送消息异常: {e}")
+        print(f"发送异常: {e}")
 
 if __name__ == "__main__":
     if not BOT_TOKEN or not CHAT_ID:
-        print("错误：请检查 Secrets 设置")
+        print("致命错误：Secrets 未配置！")
     else:
-        print("开始运行...")
+        print("=== 任务开始 ===")
         pic = get_hinata_image()
+        
         if pic:
             send_telegram(pic)
+            print("=== 任务完成 ===")
+        else:
+            print("=== 任务失败：未获取到图片 ===")
+            # 让 Action 显示为失败（红色），方便你收到通知
+            exit(1)
