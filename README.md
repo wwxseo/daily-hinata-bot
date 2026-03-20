@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-20 | “末将于禁，愿为曹家世代赴汤蹈火。”<br>——《镇魂街》 | <img src='https://w.wallhaven.cc/full/8o/wallhaven-8o5xlk.png' height='150'> |
+
 | 2026-03-19 | “认真的思索，真诚的明辨是非，有这种态度，大概可算是善良吧。”<br>——《沉默的大多数》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
 
 | 2026-03-18 | “一点星光，在心上就能反射出太阳。”<br>——《星光效应》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq88vr.jpg' height='150'> |
