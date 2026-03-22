@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-22 | “学而不厌，诲人不倦。”<br>——《论语·述而》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
+
 | 2026-03-21 | “努力吧！就算再寂寞！也要努力活下去！”<br>——《鬼灭之刃》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjxx3k.jpg' height='150'> |
 
 | 2026-03-20 | “末将于禁，愿为曹家世代赴汤蹈火。”<br>——《镇魂街》 | <img src='https://w.wallhaven.cc/full/8o/wallhaven-8o5xlk.png' height='150'> |
