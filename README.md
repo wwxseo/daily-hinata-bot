@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-23 | “加油”<br>——《自编》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
+
 | 2026-03-22 | “学而不厌，诲人不倦。”<br>——《论语·述而》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
 
 | 2026-03-21 | “努力吧！就算再寂寞！也要努力活下去！”<br>——《鬼灭之刃》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjxx3k.jpg' height='150'> |
