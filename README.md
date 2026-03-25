@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-25 | “小鸟......是无法追上飞龙的。”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
+
 | 2026-03-24 | “为了爱，与梦想！”<br>——《眼大人》 | <img src='https://w.wallhaven.cc/full/gp/wallhaven-gpx8pl.jpg' height='150'> |
 
 | 2026-03-23 | “加油”<br>——《自编》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
