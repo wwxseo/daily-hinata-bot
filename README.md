@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-28 | “我们的科学永远只是找到近似真理。”<br>——《爱因斯坦》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
+
 | 2026-03-27 | “博学而笃志，切问而近思。”<br>——《论语·子张》 | <img src='https://w.wallhaven.cc/full/ox/wallhaven-oxkdrm.png' height='150'> |
 
 | 2026-03-26 | “井底之蛙不曾见过大海，但见过湛蓝的天空。”<br>——《知晓天空之蓝的人啊》 | <img src='https://w.wallhaven.cc/full/l3/wallhaven-l33zjy.jpg' height='150'> |
