@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-01 | “吾尝终日不食，终夜不寝，以思无益，不如学也。”<br>——《论语》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-03-31 | “纵然变化，依然故我。”<br>——《墓志铭》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5d6j5.jpg' height='150'> |
 
 | 2026-03-30 | “把同班的可爱女同学娶回家就是我最大的梦想”<br>——《月色真美》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y27k.png' height='150'> |
