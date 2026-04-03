@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-03 | “你背朝太阳，就只能看到自己的影子。”<br>——《纪伯伦语录》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
+
 | 2026-04-02 | “我们是学生，学生就要有学生的样子。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
 
 | 2026-04-01 | “吾尝终日不食，终夜不寝，以思无益，不如学也。”<br>——《论语》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
