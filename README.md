@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-06 | “憧憬是距离理解最遥远的感情。”<br>——《蓝染惣右介》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-04-05 | “任何一件事都具有两面性。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd83vl.png' height='150'> |
 
 | 2026-04-04 | “人类的伟大之处就在于面对恐惧时的崇高姿态。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/j8/wallhaven-j8xxqq.jpg' height='150'> |
