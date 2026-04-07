@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-07 | “我们没有永恒的朋友，也没有永恒的敌人，只有永恒的利益。”<br>——《亨利·坦普尔》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
+
 | 2026-04-06 | “憧憬是距离理解最遥远的感情。”<br>——《蓝染惣右介》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
 
 | 2026-04-05 | “任何一件事都具有两面性。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd83vl.png' height='150'> |
