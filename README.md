@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-17 | “真羡慕你啊……有那么多同伴在等你。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
+
 | 2026-04-15 | “人类的伟大之处就在于面对恐惧时的崇高姿态。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qdzz8d.jpg' height='150'> |
 
 | 2026-04-14 | “每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。”<br>——《四月是你的谎言》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5d6j5.jpg' height='150'> |
