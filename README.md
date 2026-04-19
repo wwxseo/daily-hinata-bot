@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-19 | “喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...”<br>——《名侦探柯南》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9g.jpg' height='150'> |
+
 | 2026-04-18 | “我又不是因为你们的评价才去当的英雄，是因为我想当才去当的。”<br>——《一拳超人》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k96kxm.jpg' height='150'> |
 
 | 2026-04-17 | “真羡慕你啊……有那么多同伴在等你。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
