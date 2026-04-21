@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-21 | “真羡慕你啊……有那么多同伴在等你。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
+
 | 2026-04-20 | “花早晚会凋谢，记忆最终也会消散。”<br>——《镇魂街》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
 
 | 2026-04-19 | “喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...”<br>——《名侦探柯南》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9g.jpg' height='150'> |
