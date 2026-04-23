@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-23 | “我们要一直往上爬，总有一天抵达月亮吧。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r26vz1.jpg' height='150'> |
+
 | 2026-04-22 | “人生没有彩排，只有现场直播，所以做最好的自己。”<br>——《Internet》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
 
 | 2026-04-21 | “真羡慕你啊……有那么多同伴在等你。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
