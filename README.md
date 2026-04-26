@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-26 | “每一个不曾起舞的日子，都是对生命的辜负。”<br>——《尼采》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9g.jpg' height='150'> |
+
 | 2026-04-25 | “末将于禁，愿为曹家世代赴汤蹈火。”<br>——《镇魂街》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
 
 | 2026-04-24 | “每一个不曾起舞的日子，都是对生命的辜负。”<br>——《尼采》 | <img src='https://w.wallhaven.cc/full/j8/wallhaven-j8xxqq.jpg' height='150'> |
