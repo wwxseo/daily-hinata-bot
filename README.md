@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-29 | “孤独的人不会伤害别人，只会不断地伤害自己罢了。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxroyw.jpg' height='150'> |
+
 | 2026-04-28 | “为什么要担心？如果努力了，担心不会让结果变得更好。”<br>——《迪士尼》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
 
 | 2026-04-27 | “若以色见我，以音声求我，是人行邪道，不能见如来。”<br>——《金刚经》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
