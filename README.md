@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-01 | “如果书像是寻宝一样被发现，书会比较高兴。”<br>——《我想吃掉你的胰脏》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
+
 | 2026-04-30 | “我不相信人类......但是，我相信人类的“可能性””<br>——《游戏人生》 | <img src='https://w.wallhaven.cc/full/5w/wallhaven-5wjej7.jpg' height='150'> |
 
 | 2026-04-29 | “孤独的人不会伤害别人，只会不断地伤害自己罢了。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxroyw.jpg' height='150'> |
