@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-03 | “我问你：你是我的Master吗？”<br>——《命运守护夜》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrypp.png' height='150'> |
+
 | 2026-05-02 | “行远自迩，登高自卑。”<br>——《礼记》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
 
 | 2026-05-01 | “如果书像是寻宝一样被发现，书会比较高兴。”<br>——《我想吃掉你的胰脏》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
