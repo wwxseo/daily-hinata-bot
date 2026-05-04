@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-04 | “如果有一个喜欢你的人出现，一定不要凶她哦！”<br>——《次元战争·红龙》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
+
 | 2026-05-03 | “我问你：你是我的Master吗？”<br>——《命运守护夜》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrypp.png' height='150'> |
 
 | 2026-05-02 | “行远自迩，登高自卑。”<br>——《礼记》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
