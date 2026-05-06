@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-06 | “世上所以不公平之事是由于当事人能力不足所致。”<br>——《金木研》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
+
 | 2026-05-05 | “爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qdzz8d.jpg' height='150'> |
 
 | 2026-05-04 | “如果有一个喜欢你的人出现，一定不要凶她哦！”<br>——《次元战争·红龙》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
