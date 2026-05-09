@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-09 | “无论在哪里遇到你，我都会喜欢上你。”<br>——《AngleBeats!》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd8gz7.jpg' height='150'> |
+
 | 2026-05-08 | “憧憬是距离理解最遥远的感情。”<br>——《蓝染惣右介》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
 
 | 2026-05-07 | “不可结缘，徒留寂寞……”<br>——《夏目友人帐》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
