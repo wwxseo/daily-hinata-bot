@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-10 | “哲学家们只是用不同的方式解释世界，而问题在于改变世界。”<br>——《关于费尔巴哈的提纲》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrypp.png' height='150'> |
+
 | 2026-05-09 | “无论在哪里遇到你，我都会喜欢上你。”<br>——《AngleBeats!》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd8gz7.jpg' height='150'> |
 
 | 2026-05-08 | “憧憬是距离理解最遥远的感情。”<br>——《蓝染惣右介》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
