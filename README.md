@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-13 | “从0开始，直到1。”<br>——《Love Live!》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
+
 | 2026-05-12 | “人类的赞歌就是勇气的赞歌。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
 
 | 2026-05-11 | “那些听不见音乐的人以为跳舞的人疯了。”<br>——《上帝死了》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3ke5q3.png' height='150'> |
