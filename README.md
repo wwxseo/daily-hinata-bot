@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-14 | “自己不经意的一句话，触动了别人的心。”<br>——《恋如雨止》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
+
 | 2026-05-13 | “从0开始，直到1。”<br>——《Love Live!》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
 
 | 2026-05-12 | “人类的赞歌就是勇气的赞歌。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
