@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-15 | “你处在幸福的未知之中，不用去管白天的责任和问题。”<br>——《从早“茫”到晚》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
+
 | 2026-05-14 | “自己不经意的一句话，触动了别人的心。”<br>——《恋如雨止》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
 
 | 2026-05-13 | “从0开始，直到1。”<br>——《Love Live!》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
