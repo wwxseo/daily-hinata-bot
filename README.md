@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-21 | “吾心吾行澄如明镜，所作所为皆为正义。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
+
 | 2026-05-20 | “我们要一直往上爬，总有一天抵达月亮吧。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
 
 | 2026-05-19 | “老是低着头，幸福可是会离你而去的喔。”<br>——《我们的仙境》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
