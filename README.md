@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-22 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/76/wallhaven-76ppov.jpg' height='150'> |
+
 | 2026-05-21 | “吾心吾行澄如明镜，所作所为皆为正义。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
 
 | 2026-05-20 | “我们要一直往上爬，总有一天抵达月亮吧。”<br>——《少女终末旅行》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
