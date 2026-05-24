@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-24 | “天欲使其灭亡，必先使其疯狂。”<br>——《佚名》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
+
 | 2026-05-23 | “只顾眼前的利益而任人摆布……我已经……受够了……”<br>——《电锯人》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
 
 | 2026-05-22 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/76/wallhaven-76ppov.jpg' height='150'> |
