@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-26 | “荣格感到惊异，并向他指出有很多具骷髅，而不是只有一具。”<br>——《千高原》 | <img src='https://w.wallhaven.cc/full/j8/wallhaven-j8xxqq.jpg' height='150'> |
+
 | 2026-05-25 | “其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。”<br>——《萤火之森》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
 
 | 2026-05-24 | “天欲使其灭亡，必先使其疯狂。”<br>——《佚名》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
