@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-29 | “人类的伟大之处就在于面对恐惧时的崇高姿态。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/6o/wallhaven-6ojjy7.jpg' height='150'> |
+
 | 2026-05-28 | “温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d85j9.png' height='150'> |
 
 | 2026-05-27 | “憧憬，是距离了解最遥远的一种感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8eer6.jpg' height='150'> |
