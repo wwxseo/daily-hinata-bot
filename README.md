@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-02 | “如果当初握住的不是硬币，而是勇者的手......”<br>——《中二病也要谈恋爱 恋！》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od55vm.jpg' height='150'> |
+
 | 2026-06-01 | “因为失去,所以明白。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/96/wallhaven-96kkq8.jpg' height='150'> |
 
 | 2026-05-31 | “一个人若是没有热情，他将一事无成，而热情的基点正是责任心。”<br>——《名人名言》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
