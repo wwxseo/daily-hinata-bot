@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-04 | “龙儿是我的，谁都不准碰！”<br>——《龙虎斗》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
+
 | 2026-06-03 | “是不是现在踏出这一步，下决定的是他。”<br>——《电波教师》 | <img src='https://w.wallhaven.cc/full/q2/wallhaven-q25god.png' height='150'> |
 
 | 2026-06-02 | “如果当初握住的不是硬币，而是勇者的手......”<br>——《中二病也要谈恋爱 恋！》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od55vm.jpg' height='150'> |
