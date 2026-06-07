@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-07 | “以有涯随无涯，殆已！已而为知者，殆而已矣！”<br>——《庄子》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3evd1.jpg' height='150'> |
+
 | 2026-06-06 | “我们所爱之物昭示着我们究竟是谁。”<br>——《托马斯·阿奎纳》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
 
 | 2026-06-05 | “以有涯随无涯，殆已！已而为知者，殆而已矣！”<br>——《庄子》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
