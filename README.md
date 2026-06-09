@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-09 | “在某种意义上说即令这世界全不存在，音乐却还存在。”<br>——《作为意志和表象的世界》 | <img src='https://w.wallhaven.cc/full/6o/wallhaven-6ojjy7.jpg' height='150'> |
+
 | 2026-06-08 | “如果喜欢，就把这一切当作是荣耀，而不是炫耀。”<br>——《全职高手》 | <img src='https://w.wallhaven.cc/full/1k/wallhaven-1klx23.png' height='150'> |
 
 | 2026-06-07 | “以有涯随无涯，殆已！已而为知者，殆而已矣！”<br>——《庄子》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3evd1.jpg' height='150'> |
