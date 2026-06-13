@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-13 | “恋爱不是谈出来的，而是陷进去的。”<br>——《GAMER电玩咖！》 | <img src='https://w.wallhaven.cc/full/x1/wallhaven-x1273z.png' height='150'> |
+
 | 2026-06-12 | “爱,其实很简单，困难的是去接受它。”<br>——《通灵王》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
 
 | 2026-06-11 | “我们是学生，学生就要有学生的样子。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2d2.jpg' height='150'> |
