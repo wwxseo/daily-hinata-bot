@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-17 | “前进吧，星星在你的头上闪耀哦！”<br>——《四月是你的谎言》 | <img src='https://w.wallhaven.cc/full/1k/wallhaven-1klx23.png' height='150'> |
+
 | 2026-06-16 | “休息对于生存而言，也是紧要问题”<br>——《虫师》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
 
 | 2026-06-15 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
