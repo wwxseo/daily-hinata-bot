@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-19 | “越想贴近事实，不明白的事情就越多。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
+
 | 2026-06-18 | “有形的东西迟早会凋零，但只有回忆是永远不会凋零的。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
 
 | 2026-06-17 | “前进吧，星星在你的头上闪耀哦！”<br>——《四月是你的谎言》 | <img src='https://w.wallhaven.cc/full/1k/wallhaven-1klx23.png' height='150'> |
