@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-20 | “今天的风儿有些喧嚣啊。”<br>——《男子高中生的日常》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
+
 | 2026-06-19 | “越想贴近事实，不明白的事情就越多。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
 
 | 2026-06-18 | “有形的东西迟早会凋零，但只有回忆是永远不会凋零的。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
