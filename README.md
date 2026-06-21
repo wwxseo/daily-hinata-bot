@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-21 | “求你，保护那孩子，消除灾厄，抹除祸事。哪怕⋯⋯那是我自己……”<br>——《食灵》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
+
 | 2026-06-20 | “今天的风儿有些喧嚣啊。”<br>——《男子高中生的日常》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
 
 | 2026-06-19 | “越想贴近事实，不明白的事情就越多。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
