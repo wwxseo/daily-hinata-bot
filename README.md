@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-27 | “あなたは敵だけど悪くない。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
+
 | 2026-06-26 | “不幸的是我们等了那么多年，幸运的我们那么多年过去还一直在一起”<br>——《薄荷之夏》 | <img src='https://w.wallhaven.cc/full/gp/wallhaven-gpx8pl.jpg' height='150'> |
 
 | 2026-06-25 | “人生不如意十有八九！”<br>——《龙与虎》 | <img src='https://w.wallhaven.cc/full/p2/wallhaven-p299ve.jpg' height='150'> |
