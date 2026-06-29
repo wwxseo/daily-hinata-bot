@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-06-29 | “所谓辉煌的人生，不过是欲望的囚徒。”<br>——《网络》 | <img src='https://w.wallhaven.cc/full/6d/wallhaven-6dgkd6.jpg' height='150'> |
+
 | 2026-06-28 | “方生方死，方死方生，方可方不可，方不可方可。”<br>——《齐物论》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
 
 | 2026-06-27 | “あなたは敵だけど悪くない。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
