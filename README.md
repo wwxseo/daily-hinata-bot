@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-01 | “应该在肩膀上长着自己的脑袋。”<br>——《弗拉基米尔.伊里奇.列宁》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
+
 | 2026-06-30 | “吾尝终日不食，终夜不寝，以思无益，不如学也。”<br>——《论语》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
 
 | 2026-06-29 | “所谓辉煌的人生，不过是欲望的囚徒。”<br>——《网络》 | <img src='https://w.wallhaven.cc/full/6d/wallhaven-6dgkd6.jpg' height='150'> |
