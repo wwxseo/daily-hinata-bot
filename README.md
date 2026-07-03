@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-03 | “人生于我，一场豪赌而已。”<br>——《赡养人类》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-07-02 | “物质与意识的辩证关系：物质决定意识，意识反作用于物质。”<br>——《唯物主义哲学》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
 
 | 2026-07-01 | “应该在肩膀上长着自己的脑袋。”<br>——《弗拉基米尔.伊里奇.列宁》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
