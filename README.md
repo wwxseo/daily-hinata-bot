@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-06 | “对于我们的幸福来说，别人的看法在本质上来讲并不十分重要。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
+
 | 2026-07-05 | “前天是小兔子，昨天是小鹿，今天是你。”<br>——《Clannad》 | <img src='https://w.wallhaven.cc/full/o5/wallhaven-o5vx5m.jpg' height='150'> |
 
 | 2026-07-04 | “我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。”<br>——《Enchiridion》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
