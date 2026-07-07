@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-07 | “不可以逃避！活下去！活下去也是一种战斗！”<br>——《机动战士高达独角兽》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-07-06 | “对于我们的幸福来说，别人的看法在本质上来讲并不十分重要。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
 
 | 2026-07-05 | “前天是小兔子，昨天是小鹿，今天是你。”<br>——《Clannad》 | <img src='https://w.wallhaven.cc/full/o5/wallhaven-o5vx5m.jpg' height='150'> |
