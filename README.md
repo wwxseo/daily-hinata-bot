@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-11 | “任尘世繁华，唯有守护你的一切，才是我此生唯一的使命。”<br>——《次元战争·红龙》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
+
 | 2026-07-10 | “当连自己的路途也看不见时，人便不该不理一切地疯狂奔跑。”<br>——《海虎Ⅱ》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
 
 | 2026-07-09 | “あなたは敵だけど悪くない。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
