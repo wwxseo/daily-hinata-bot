@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-15 | “遇到事情不能坐以待毙。”<br>——《捷德奥特曼》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
+
 | 2026-07-14 | “对不起，风太大了，我听不清。”<br>——《东京巴比伦》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
 
 | 2026-07-13 | “无暇为五条悟的死哀悼，被投入到战场的是……雷神，鹿紫云一。”<br>——《咒术回战》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrovl.png' height='150'> |
