@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-16 | “死亡是所有人的共同幸福。”<br>——《最不幸的人》 | <img src='https://w.wallhaven.cc/full/p9/wallhaven-p9v89e.jpg' height='150'> |
+
 | 2026-07-15 | “遇到事情不能坐以待毙。”<br>——《捷德奥特曼》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
 
 | 2026-07-14 | “对不起，风太大了，我听不清。”<br>——《东京巴比伦》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
