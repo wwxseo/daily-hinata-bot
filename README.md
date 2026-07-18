@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-18 | “我思故我在。”<br>——《谈谈方法》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k96kxm.jpg' height='150'> |
+
 | 2026-07-17 | “死亡是所有人的共同幸福。”<br>——《最不幸的人》 | <img src='https://w.wallhaven.cc/full/o5/wallhaven-o5vx5m.jpg' height='150'> |
 
 | 2026-07-16 | “死亡是所有人的共同幸福。”<br>——《最不幸的人》 | <img src='https://w.wallhaven.cc/full/p9/wallhaven-p9v89e.jpg' height='150'> |
