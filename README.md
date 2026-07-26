@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-26 | “作业忘写，因而立于廊，最上川。”<br>——《日常》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5dggj3.jpg' height='150'> |
+
 | 2026-07-25 | “憧憬是距离理解最遥远的感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
 
 | 2026-07-24 | “你们人类让我明白了一个道理，那就是这个世界是不讲道理的”<br>——《刺客伍六七》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
