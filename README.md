@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-29 | “物质决定意识，意识反作用于物质”<br>——《唯物主义哲学》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
+
 | 2026-07-28 | “无暇为五条悟的死哀悼，被投入到战场的是……雷神，鹿紫云一。”<br>——《咒术回战》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
 
 | 2026-07-27 | “今天不想做，所以才要做”<br>——《春上村树》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
