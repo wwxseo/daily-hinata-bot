@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-07-30 | “谁不和我们一起就是反对我们，中立的人最危险。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/l3/wallhaven-l33zjy.jpg' height='150'> |
+
 | 2026-07-29 | “物质决定意识，意识反作用于物质”<br>——《唯物主义哲学》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
 
 | 2026-07-28 | “无暇为五条悟的死哀悼，被投入到战场的是……雷神，鹿紫云一。”<br>——《咒术回战》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
