@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-02 | “幻术世界有什么不好，现实太残酷，只会让这空洞越来越大。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
+
 | 2026-08-01 | “アートは最高です！”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9k.jpg' height='150'> |
 
 | 2026-07-31 | “小鸟......是无法追上飞龙的。”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
