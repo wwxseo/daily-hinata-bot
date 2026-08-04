@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-04 | “芝兰生于深林，不以无人而不芳；君子修道立德，不为穷困而改节。”<br>——《孔子家语·在厄》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
+
 | 2026-08-03 | “真一郎的鞋里有蟑螂，真一郎的心里是——汤浅比吕美。”<br>——《真实之泪》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd8gz7.jpg' height='150'> |
 
 | 2026-08-02 | “幻术世界有什么不好，现实太残酷，只会让这空洞越来越大。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
