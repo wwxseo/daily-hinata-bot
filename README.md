@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-06 | “圣人不死，大盗不止。”<br>——《庄子·外篇·胠箧第十》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3evd1.jpg' height='150'> |
+
 | 2026-08-05 | “如果不能忠于自己的心，胜负又有什么价值呢？”<br>——《塔希里亚故事集》 | <img src='https://w.wallhaven.cc/full/76/wallhaven-76ppov.jpg' height='150'> |
 
 | 2026-08-04 | “芝兰生于深林，不以无人而不芳；君子修道立德，不为穷困而改节。”<br>——《孔子家语·在厄》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
