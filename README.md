@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-11 | “放任误解就是撒谎。”<br>——《鬼物语》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
+
 | 2026-08-10 | “我又不是因为你们的评价才去当的英雄，是因为我想当才去当的。”<br>——《一拳超人》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
 
 | 2026-08-09 | “放任误解就是撒谎。”<br>——《鬼物语》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
