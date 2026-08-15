@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-15 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/76/wallhaven-76ppov.jpg' height='150'> |
+
 | 2026-08-14 | “就算风吹散了冰雪，想念也会留存下来。”<br>——《滑头鬼之孙》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
 
 | 2026-08-13 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
