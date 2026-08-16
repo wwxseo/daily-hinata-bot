@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-16 | “似水流年是一个人所有的一切，只有这个东西，才真正归你所有。”<br>——《似水流年》 | <img src='https://w.wallhaven.cc/full/p9/wallhaven-p9v89e.jpg' height='150'> |
+
 | 2026-08-15 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/76/wallhaven-76ppov.jpg' height='150'> |
 
 | 2026-08-14 | “就算风吹散了冰雪，想念也会留存下来。”<br>——《滑头鬼之孙》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
