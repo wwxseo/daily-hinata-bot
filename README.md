@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-20 | “声起立华乐独奏，曲末音无心结弦。”<br>——《Angel Beats!》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y8ox.jpg' height='150'> |
+
 | 2026-08-19 | “甲之蜜糖，乙之砒霜。”<br>——《曼陀罗》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k9xx67.png' height='150'> |
 
 | 2026-08-18 | “憧憬是距离理解最遥远的感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/5w/wallhaven-5wjej7.jpg' height='150'> |
