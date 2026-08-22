@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-22 | “资本来到世间，从头到脚每个毛孔都滴着血和肮脏的东西。”<br>——《资本论》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
+
 | 2026-08-21 | “你可以期待太阳从东方升起，而风却随心所欲地从四面八方吹来。”<br>——《萨特》 | <img src='https://w.wallhaven.cc/full/0w/wallhaven-0w26ex.png' height='150'> |
 
 | 2026-08-20 | “声起立华乐独奏，曲末音无心结弦。”<br>——《Angel Beats!》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y8ox.jpg' height='150'> |
