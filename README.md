@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-25 | “如果你能从浪费时间中获得乐趣，就不是在浪费时间。”<br>——《未知》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-odx5j7.png' height='150'> |
+
 | 2026-08-24 | “人生就是不公平的，慢慢习惯吧。”<br>——《海绵宝宝》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k961vd.png' height='150'> |
 
 | 2026-08-23 | “人即他人之狼。”<br>——《论公民》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k961vd.png' height='150'> |
