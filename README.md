@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-28 | “以眼还眼，世界只会更盲目。”<br>——《甘地的口号》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
+
 | 2026-08-27 | “我的东西难道不可随我的意思用吗？”<br>——《马太福音20:15》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
 
 | 2026-08-26 | “Ex - ploooosion !”<br>——《为美好的世界献上祝福》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r26vz1.jpg' height='150'> |
