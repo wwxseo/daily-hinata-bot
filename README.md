@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-08-31 | “越是困难，越要抬起头，地上可找不到任何希望！”<br>——《Zetman》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
+
 | 2026-08-30 | “如果有一个喜欢你的人出现，一定不要凶她哦！”<br>——《次元战争·红龙》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e7ypeo.jpg' height='150'> |
 
 | 2026-08-29 | “绝望的世界没有丝毫存在的价值。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
