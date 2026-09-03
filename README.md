@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-03 | “人性一个最特别的弱点就是：在意别人如何看待自己。”<br>——《亚瑟・叔本华》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
+
 | 2026-09-02 | “我本来不想使出这一招的”<br>——《少年JUMP》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
 
 | 2026-09-01 | “幸福破灭之时，总是伴随着血腥味。”<br>——《鬼灭之刃》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
