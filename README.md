@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-04 | “须知政权是由枪杆子中取得的。”<br>——《八七会议报告》 | <img src='https://w.wallhaven.cc/full/gj/wallhaven-gjl9wd.png' height='150'> |
+
 | 2026-09-03 | “人性一个最特别的弱点就是：在意别人如何看待自己。”<br>——《亚瑟・叔本华》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
 
 | 2026-09-02 | “我本来不想使出这一招的”<br>——《少年JUMP》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
