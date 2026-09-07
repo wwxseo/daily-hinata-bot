@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-07 | “明月也不曾记得它点亮过世界！”<br>——《彭焱To罗茹茹》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
+
 | 2026-09-06 | “如果你能在浪费时间中获得乐趣，就不算浪费时间。”<br>——《罗素》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
 
 | 2026-09-05 | “末将于禁，愿为曹家世代赴汤蹈火。”<br>——《镇魂街》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
