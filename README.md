@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-10 | “男人从小的时候就是无药可救的。”<br>——《秋之回忆》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
+
 | 2026-09-09 | “一味地追求理想，总有一天会被现实背叛。”<br>——《名侦探柯南：绯色的子弹》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wy33zx.jpg' height='150'> |
 
 | 2026-09-08 | “你处在幸福的未知之中，不用去管白天的责任和问题。”<br>——《从早“茫”到晚》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
