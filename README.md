@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-13 | “哲学是世界观和方法论的统一。”<br>——《辩证唯物主义》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
+
 | 2026-09-12 | “在隆冬，我终于明白，我身上有一个不可战胜的夏天。”<br>——《重返蒂帕萨》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
 
 | 2026-09-11 | “谁不和我们一起就是反对我们，中立的人最危险。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
