@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-15 | “风吹柳叶遮黄雀，薄翅不觉已落蝉。”<br>——《我为苍生》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
+
 | 2026-09-14 | “可爱即是正义。”<br>——《游戏人生》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eoxxpk.jpg' height='150'> |
 
 | 2026-09-13 | “哲学是世界观和方法论的统一。”<br>——《辩证唯物主义》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
