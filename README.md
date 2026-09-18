@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-18 | “实践是检验真理的唯一标准。”<br>——《光明日报》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
+
 | 2026-09-17 | “不敢打开信封啊。因为，打开了就结束了啊。”<br>——《旋风管家》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
 
 | 2026-09-16 | “知识有两种，一种是你知道的，一种是你知道在哪里能找到的！”<br>——《塞缪尔·约翰逊》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
