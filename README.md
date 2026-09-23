@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-23 | “嗯呐......软绵绵的人偶，来治愈你们的哟。”<br>——《来自深渊》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
+
 | 2026-09-22 | “不知彼此来世相逢。是否还能记得我是谁？”<br>——《狐妖小红娘》 | <img src='https://w.wallhaven.cc/full/p9/wallhaven-p9v89e.jpg' height='150'> |
 
 | 2026-09-18 | “实践是检验真理的唯一标准。”<br>——《光明日报》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
