@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-26 | “努力可是要默默藏起来的。”<br>——《Re：从零开始的异世界生活》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
+
 | 2026-09-25 | “憧憬是距离理解最遥远的感情。”<br>——《蓝染惣右介》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7poreo.jpg' height='150'> |
 
 | 2026-09-24 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y27k.png' height='150'> |
