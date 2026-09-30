@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-09-30 | “熬得住无人问津的日子，方可配得起诗和远方。”<br>——《网络》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
+
 | 2026-09-29 | “内心湛然，则无往而不乐。”<br>——《人生不过如此》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lmlp22.jpg' height='150'> |
 
 | 2026-09-28 | “你们这些天才止步不前的时候，我会走得更远。”<br>——《如果有个妹妹就好了》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
