@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-02 | “若以色见我，以音声求我，是人行邪道，不能见如来。”<br>——《金刚经》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
+
 | 2026-10-01 | “我命令你，喜欢我！”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxyyrg.jpg' height='150'> |
 
 | 2026-09-30 | “熬得住无人问津的日子，方可配得起诗和远方。”<br>——《网络》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
