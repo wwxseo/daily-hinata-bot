@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-04 | “只顾眼前的利益而任人摆布……我已经……受够了……”<br>——《电锯人》 | <img src='https://w.wallhaven.cc/full/dg/wallhaven-dgd9qj.jpg' height='150'> |
+
 | 2026-10-03 | “我，将某个人，唯一的某个人，试图锁定。我，”<br>——《你的名字》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
 
 | 2026-10-02 | “若以色见我，以音声求我，是人行邪道，不能见如来。”<br>——《金刚经》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
