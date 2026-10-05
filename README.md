@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-05 | “其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。”<br>——《萤火之森》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjrgqg.png' height='150'> |
+
 | 2026-10-04 | “只顾眼前的利益而任人摆布……我已经……受够了……”<br>——《电锯人》 | <img src='https://w.wallhaven.cc/full/dg/wallhaven-dgd9qj.jpg' height='150'> |
 
 | 2026-10-03 | “我，将某个人，唯一的某个人，试图锁定。我，”<br>——《你的名字》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
