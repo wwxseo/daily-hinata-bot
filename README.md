@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-07 | “爱迪生说过：“要把BOSS打倒就要准备足够的等级。””<br>——《学生会的一己之见》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
+
 | 2026-10-06 | “因为失去,所以明白。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wyxpr7.jpg' height='150'> |
 
 | 2026-10-05 | “其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。”<br>——《萤火之森》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjrgqg.png' height='150'> |
