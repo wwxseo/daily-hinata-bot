@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-08 | “只要人活在这世上就一定是有意义的，怎么活是自己选的。”<br>——《我想吃掉你的胰脏》 | <img src='https://w.wallhaven.cc/full/q2/wallhaven-q261rq.jpg' height='150'> |
+
 | 2026-10-07 | “爱迪生说过：“要把BOSS打倒就要准备足够的等级。””<br>——《学生会的一己之见》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
 
 | 2026-10-06 | “因为失去,所以明白。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wyxpr7.jpg' height='150'> |
