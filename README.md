@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-11 | “圣人不死，大盗不止。”<br>——《庄子·外篇·胠箧第十》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
+
 | 2026-10-10 | “アートは最高です！”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od55vm.jpg' height='150'> |
 
 | 2026-10-09 | “所谓的奇迹就是要发生之后才会有价值存在的吧”<br>——《EVA》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qjovx.png' height='150'> |
