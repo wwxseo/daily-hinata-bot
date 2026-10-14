@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-14 | “没有行动的新的领悟，是转瞬即逝的。”<br>——《心理课》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zy5w.jpg' height='150'> |
+
 | 2026-10-13 | “从长远看，我们都已经死了。”<br>——《货币改革论》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
 
 | 2026-10-12 | “美丽的不是这个世界，而是接受了这个世界的你的眼睛。”<br>——《吸血鬼骑士》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k9xx67.png' height='150'> |
