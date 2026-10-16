@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-16 | “努力吧！就算再寂寞！也要努力活下去！”<br>——《鬼灭之刃》 | <img src='https://w.wallhaven.cc/full/j3/wallhaven-j35qvp.jpg' height='150'> |
+
 | 2026-10-15 | “自身拥有越丰富，他在别人身上所能发现得到的就越少。”<br>——《人类的智慧》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
 
 | 2026-10-14 | “没有行动的新的领悟，是转瞬即逝的。”<br>——《心理课》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zy5w.jpg' height='150'> |
