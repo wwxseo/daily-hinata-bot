@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-18 | “理性的人追求的并非快乐，而只是避免痛苦。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
+
 | 2026-10-17 | “不要太小看人类了！”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
 
 | 2026-10-16 | “努力吧！就算再寂寞！也要努力活下去！”<br>——《鬼灭之刃》 | <img src='https://w.wallhaven.cc/full/j3/wallhaven-j35qvp.jpg' height='150'> |
