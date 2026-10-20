@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-20 | “那么多的梦你一点也不记得，它们又是谁梦见的？”<br>——《心我论》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
+
 | 2026-10-19 | “和你们这些少爷不同，我们光是活着就竭尽全力了。”<br>——《银魂》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxroyw.jpg' height='150'> |
 
 | 2026-10-18 | “理性的人追求的并非快乐，而只是避免痛苦。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
