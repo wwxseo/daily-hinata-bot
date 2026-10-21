@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-21 | “一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。”<br>——《天使领域》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x5562.jpg' height='150'> |
+
 | 2026-10-20 | “那么多的梦你一点也不记得，它们又是谁梦见的？”<br>——《心我论》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
 
 | 2026-10-19 | “和你们这些少爷不同，我们光是活着就竭尽全力了。”<br>——《银魂》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxroyw.jpg' height='150'> |
