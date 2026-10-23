@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-23 | “忘情不如情忘，绝念不如念绝。”<br>——《有缘》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
+
 | 2026-10-22 | “赢得了时间就是赢得了一切。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k5dwx.png' height='150'> |
 
 | 2026-10-21 | “一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。”<br>——《天使领域》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x5562.jpg' height='150'> |
