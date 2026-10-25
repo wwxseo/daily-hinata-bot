@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-25 | “你为了你的正义，我为了我的正义。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y8ox.jpg' height='150'> |
+
 | 2026-10-24 | “アートは最高です！”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
 
 | 2026-10-23 | “忘情不如情忘，绝念不如念绝。”<br>——《有缘》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
