@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-26 | “死亡不属于工人阶级！”<br>——《列宁全集》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
+
 | 2026-10-25 | “你为了你的正义，我为了我的正义。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y8ox.jpg' height='150'> |
 
 | 2026-10-24 | “アートは最高です！”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
