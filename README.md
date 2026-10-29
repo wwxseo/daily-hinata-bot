@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-10-29 | “温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/dg/wallhaven-dgd9qj.jpg' height='150'> |
+
 | 2026-10-28 | “我之所以想变强，是为了活得轻松写意。”<br>——《一拳超人》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d566q3.jpg' height='150'> |
 
 | 2026-10-27 | “诸法因缘生，我说是因缘；因缘尽故灭，我作如是说。”<br>——《佛说造塔功德经》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lmlp22.jpg' height='150'> |
