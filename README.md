@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-01 | “我们并不是什么童话故事，而是确确实实存在过。”<br>——《葬送的芙莉莲》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd83vl.png' height='150'> |
+
 | 2026-10-31 | “我们没有永恒的朋友，也没有永恒的敌人，只有永恒的利益。”<br>——《亨利·坦普尔》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9k.jpg' height='150'> |
 
 | 2026-10-30 | “实践是检验真理的唯一标准。”<br>——《光明日报》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
