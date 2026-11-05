@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-05 | “我们是学生，学生就要有学生的样子。”<br>——《JOJO的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
+
 | 2026-11-04 | “水面的涟漪虽然暂时消失了，但仍会有人记得，风曾经吹过。”<br>——《天行九歌》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmdwg.png' height='150'> |
 
 | 2026-11-03 | “纵使天光终将熄灭，我们也要歌颂太阳。”<br>——《我来到这世上为的是看太阳》 | <img src='https://w.wallhaven.cc/full/0p/wallhaven-0pr29j.png' height='150'> |
