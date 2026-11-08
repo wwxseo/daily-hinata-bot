@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-08 | “取法于上，仅得为中；取法于中，故为其下。”<br>——《每日一习话》 | <img src='https://w.wallhaven.cc/full/k8/wallhaven-k8jl3d.png' height='150'> |
+
 | 2026-11-07 | “山内有樱名为良，树本无名只待春。”<br>——《我想吃掉你的胰脏》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
 
 | 2026-11-06 | “重要的人，不能等到以后再去了解。心意不说出口，就无法传达。”<br>——《葬送的芙莉莲》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jppm3.png' height='150'> |
