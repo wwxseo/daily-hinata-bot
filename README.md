@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-11 | “只顾眼前的利益而任人摆布……我已经……受够了……”<br>——《电锯人》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
+
 | 2026-11-10 | “憧憬，是距离了解最遥远的一种感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
 
 | 2026-11-09 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3ke5q3.png' height='150'> |
