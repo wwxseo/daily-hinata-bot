@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-12 | “地球上的任何一点离太阳都同样地遥远。”<br>——《伯顿》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
+
 | 2026-11-11 | “只顾眼前的利益而任人摆布……我已经……受够了……”<br>——《电锯人》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
 
 | 2026-11-10 | “憧憬，是距离了解最遥远的一种感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
