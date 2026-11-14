@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-14 | “和你们这些少爷不同，我们光是活着就竭尽全力了。”<br>——《银魂》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7poreo.jpg' height='150'> |
+
 | 2026-11-13 | “军人天生就舍弃了战斗的意义！”<br>——《机动战士高达00》 | <img src='https://w.wallhaven.cc/full/gj/wallhaven-gj2x57.jpg' height='150'> |
 
 | 2026-11-12 | “地球上的任何一点离太阳都同样地遥远。”<br>——《伯顿》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
