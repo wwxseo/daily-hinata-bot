@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-11-17 | “Ex - ploooosion !”<br>——《为美好的世界献上祝福》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmxp9.jpg' height='150'> |
+
 | 2026-11-16 | “富江有天使的脸孔，但其实她是个恶魔，不，恶魔也比她要好一点。”<br>——《富江》 | <img src='https://w.wallhaven.cc/full/x1/wallhaven-x1273z.png' height='150'> |
 
 | 2026-11-15 | “从伟大崇高到荒谬可笑，其间只相差一步。”<br>——《拿破仑语录》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8eer6.jpg' height='150'> |
